@@ -7,6 +7,6 @@ int levelthumbs::getQualityMultiplier(){
 }
 
 std::string levelthumbs::getBaseUrl(){
-    std::string baseURL = "https://raw.githubusercontent.com/Dittor-Aud/thumbning/main/thunb";
+    std::string baseURL = "https://raw.githubusercontent.com/Dittor-Aud/thumbning/main/thumb";
     return baseURL;
 }
