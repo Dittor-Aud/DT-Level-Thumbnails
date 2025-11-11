@@ -7,6 +7,6 @@ int levelthumbs::getQualityMultiplier(){
 }
 
 std::string levelthumbs::getBaseUrl(){
-    std::string baseURL = Mod::get()->getSettingValue<std::string>("level-thumbnails-url");
+    std::string baseURL = "https://raw.githubusercontent.com/Dittor-Aud/thumbning/main/thunb";
     return baseURL;
 }
