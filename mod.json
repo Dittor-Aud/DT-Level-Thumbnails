@@ -7,8 +7,8 @@
         "ios": "2.2074"
     },
     "version": "v1.3.0",
-    "id": "cdc.level_thumbnails",
-    "name": "Level Thumbnails",
+    "id": "dt.cdc.level_thumbnails",
+    "name": "DT Level Thumbnails",
     "developer": "cdc",
     "links":{
         "community": "https://discord.gg/ZF555Rgfb5B",
